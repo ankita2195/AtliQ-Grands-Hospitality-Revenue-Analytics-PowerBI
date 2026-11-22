@@ -29,9 +29,9 @@ AtliQ Grands, a hotel chain with a 20-year operating history, was facing declini
 | **RevPAR (Revenue Per Available Room)** | Revenue earned per available room. |
 | **Occupancy %** | Percentage of available room capacity successfully booked. |
 | **Realisation %** | Percentage of bookings that were neither cancelled nor marked as no-show. |
-| **DBRN** | Daily Booked Room Nights – average bookings per day. |
-| **DSRN** | Daily Sellable Room Nights – average available room capacity per day. |
-| **DURN** | Daily Utilised Room Nights – average checked-out bookings per day. |
+| **DBRN** | Daily Booked Room Nights - average bookings per day. |
+| **DSRN** | Daily Sellable Room Nights - average available room capacity per day. |
+| **DURN** | Daily Utilised Room Nights - average checked-out bookings per day. |
 
 ## Dashboard Highlights
 
@@ -103,7 +103,7 @@ Created **26 DAX measures and 2 calculated columns** to support KPI reporting, p
 
 **Calculated columns**
 - Week Number
-- Day Type (Weekend / Weekday), based on the business-defined Friday–Saturday weekend.
+- Day Type (Weekend / Weekday), based on the business-defined Friday-Saturday weekend.
 
 ## Tools & Techniques
 
