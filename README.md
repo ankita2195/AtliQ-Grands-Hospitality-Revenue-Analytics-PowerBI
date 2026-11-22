@@ -112,6 +112,3 @@ Created **26 DAX measures and 2 calculated columns** to support KPI reporting, p
 - **Data Modelling:** Fact and dimension tables, shared dimensions and one-to-many relationships.
 - **Business Analysis:** Revenue performance, occupancy trends, booking-channel analysis and pricing recommendations.
 
-## Project Objective
-
-Move beyond reporting hotel performance to identify where revenue opportunities and booking inefficiencies exist—and translate those findings into practical commercial recommendations.
