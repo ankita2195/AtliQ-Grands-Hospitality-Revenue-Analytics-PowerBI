@@ -21,6 +21,18 @@ AtliQ Grands, a hotel chain with a 20-year operating history, was facing declini
 
 **Data volume:** 134,590 booking-level records and 9,200 aggregated booking records.
 
+## Key Business Metrics
+
+| Metric | Definition |
+|---|---|
+| **ADR (Average Daily Rate)** | Average revenue per booking. |
+| **RevPAR (Revenue Per Available Room)** | Revenue earned per available room. |
+| **Occupancy %** | Percentage of available room capacity successfully booked. |
+| **Realisation %** | Percentage of bookings that were neither cancelled nor marked as no-show. |
+| **DBRN** | Daily Booked Room Nights – average bookings per day. |
+| **DSRN** | Daily Sellable Room Nights – average available room capacity per day. |
+| **DURN** | Daily Utilised Room Nights – average checked-out bookings per day. |
+
 ## Dashboard Highlights
 
 <img width="1090" height="732" alt="image" src="https://github.com/user-attachments/assets/fabcdf36-5819-45c2-922e-122b57f33a8b" />
@@ -36,18 +48,6 @@ The Power BI dashboard provides an overview of revenue, occupancy, pricing, book
 | Realisation | 70.14% |
 | Cancellation Rate | 24.8% |
 | Average Rating | 3.6 / 5 |
-
-## Key Business Metrics
-
-| Metric | Definition |
-|---|---|
-| **ADR (Average Daily Rate)** | Average revenue per booking. |
-| **RevPAR (Revenue Per Available Room)** | Revenue earned per available room. |
-| **Occupancy %** | Percentage of available room capacity successfully booked. |
-| **Realisation %** | Percentage of bookings that were neither cancelled nor marked as no-show. |
-| **DBRN** | Daily Booked Room Nights – average bookings per day. |
-| **DSRN** | Daily Sellable Room Nights – average available room capacity per day. |
-| **DURN** | Daily Utilised Room Nights – average checked-out bookings per day. |
 
 **Notable findings**
 
